@@ -10,7 +10,7 @@
 
 • 2015 marks 20 years since the first version of Java was released for public use
 
-![](./assests/sc1.png)
+![](https://raw.githubusercontent.com/cd-alvina/oracleLectureSlides-even/main/assests/sc1.png)
 
 ## Java Technology
 • Java is the global standard for developing and delivering embedded and mobile applications, games, web-based content, and enterprise software
