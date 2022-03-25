@@ -47,13 +47,13 @@ _Your friends know you’re taking the Java Foundations course, so you’re the 
 ## Modeling Objects
 * **You may have been tempted to model each person’s total by writing this:**
 
-``public class Tip01{
+```public class Tip01{
   public static void main(String args[]){
   double person1 = 10;
   double total1  = person1*(1 +.05 +.15);
   System.out.println(total1);
 }//end method main
-} //end class Tip01``
+} //end class Tip01```
 
 ## Modeling More Objects
 * **When you needed to model two dinner guests, you may have been tempted to copy, paste, and rename:**
