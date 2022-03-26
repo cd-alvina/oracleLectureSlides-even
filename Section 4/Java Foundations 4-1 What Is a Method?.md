@@ -47,22 +47,14 @@ _Your friends know you’re taking the Java Foundations course, so you’re the 
 ## Modeling Objects
 * **You may have been tempted to model each person’s total by writing this:**
 
-<<<<<<< HEAD:Section 4/Java Foundations 4-1 What Is a Method?.md
+
 ```public class Tip01{
   public static void main(String args[]){
   double person1 = 10;
   double total1  = person1*(1 +.05 +.15);
   System.out.println(total1);
-=======
-```
-public class Tip01{
-   public static void main(String args[]){
-   
-   double person1 = 10;
-   double total1  = person1*(1 +.05 +.15);
-   System.out.println(total1);
->>>>>>> de1ad23 (4-1 done):Section 4/ Java Foundations 4-1 What Is a Method?.md
-}//end method main
+  
+  }//end method main
 } //end class Tip01
 ```
 
@@ -655,10 +647,3 @@ _It’s also possible to find the total by creating a field within the Calculato
 
 
 
-<<<<<<< HEAD:Section 4/Java Foundations 4-1 What Is a Method?.md
-#When to Use Methods
-*  It’s a good idea to write a method if you ...
-*  Find yourself repeating very similar lines of code, including calculations
-*  Need to describe an object’s behavior
-=======
->>>>>>> de1ad23 (4-1 done):Section 4/ Java Foundations 4-1 What Is a Method?.md
