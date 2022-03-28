@@ -217,9 +217,10 @@ character (" ") within custName
    
    ```
    String str1 = "Hello";
-String str2 = "Hello";
-```
-   - We expect this ...
+   String str2 = "Hello";
+   ```
+  
+  - We expect this ...
    
 ![](./assests4/sc32.png)
 
