@@ -286,7 +286,7 @@ _As you design an application, it’s often helpful to create a simple model tha
    - Differentiate between procedural and object-oriented programming
    - Understand a class as a blueprint for an object
    - Understand a class is used to create instances of an object
-   - Model objects as a combination of ...
+   - Model objects as a combination of 
     
       - Properties (data fields)
       - Behaviors (methods)
