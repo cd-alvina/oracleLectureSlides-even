@@ -202,5 +202,5 @@ The area of circle is: 176.71458676442586
 
      - Understand the methods of the Math class
      - Use methods of the Math class to perform mathematical calculations
-     - Use fields of the Math Class
+     - Use fields of the Math Class.
 
